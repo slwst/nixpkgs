@@ -7,7 +7,7 @@
 
 buildGoModule (finalAttrs: {
   pname = "dolt";
-  version = "1.81.2";
+  version = "1.82.6";
 
   src = fetchFromGitHub {
     owner = "dolthub";
